@@ -1,0 +1,212 @@
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0078D4&height=200&section=header&text=Samyak%20Kamble&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Azure%20Data%20Engineer%20%E2%80%A2%20Cloud%20%26%20Analytics%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=700&lines=Building+Production-Grade+Data+Pipelines;Azure+Data+Factory+%7C+Databricks+%7C+Spark;Transforming+Raw+Data+into+Business+Intelligence;Cloud-First+%7C+Scale-Ready+%7C+Analytics-Driven)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](PASTE_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](PASTE_GITHUB_LINK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PASTE_EMAIL)
+
+![Profile Views](https://komarev.com/ghpvc/?username=PASTE_GITHUB_USERNAME&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `⚡ About Me`
+
+```python
+class SamyakKamble:
+    role        = "Azure Data Engineer Intern @ Amdox"
+    education   = "B.Sc. Data Science (In Progress)"
+    domain      = ["Data Engineering", "Cloud Platforms", "Analytics Engineering"]
+    building    = "Scalable ETL pipelines & cloud-native data platforms on Azure"
+    mission     = "Turn raw, messy data into reliable, business-ready intelligence"
+    currently   = "Designing lakehouse architectures with ADF + Databricks + Delta Lake"
+    open_to     = "Data Engineering | Cloud Data Platform | Analytics Engineering roles"
+```
+
+> Actively designing and deploying **production-style data engineering systems** — not just academic exercises.
+> I architect end-to-end pipelines, model data warehouses, and deliver analytics that drive decisions at scale.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK / SKILLS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `🛠️ Tech Stack & Core Skills`
+
+**☁️ Cloud & Data Orchestration**
+
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**⚙️ Processing & Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**📊 Analytics & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**🔧 Engineering Practices**
+
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-5C2D91?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `🚀 Featured Projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Retail Sales Intelligence Platform
+End-to-end Azure data pipeline ingesting multi-source retail data, processing via Databricks + PySpark, and modeling a star-schema warehouse for Power BI dashboards tracking KPIs, inventory, and customer behaviour at scale.
+
+**Stack:** `ADF` `Databricks` `PySpark` `Delta Lake` `Power BI`
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github&logoColor=white)](PASTE_PROJECT_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Financial Fraud Detection & Risk Monitoring
+Real-time risk monitoring system using Spark Structured Streaming and ML models to flag anomalous transactions. Features automated alerting, audit trails, and an operational Power BI dashboard for compliance teams.
+
+**Stack:** `PySpark` `Azure Databricks` `SQL` `Python` `Power BI`
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github&logoColor=white)](PASTE_PROJECT_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 AI Healthcare Recommendation Engine
+Data platform unifying patient records, diagnostics, and treatment history to power an ML-based recommendation engine. Built with a medallion lakehouse architecture for data quality and governance.
+
+**Stack:** `Python` `Azure Data Lake` `Databricks` `Delta Lake` `SQL`
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github&logoColor=white)](PASTE_PROJECT_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Customer Analytics Dashboard
+360° customer analytics solution consolidating CRM, transactional, and behavioural data into a single semantic model. Delivers cohort analysis, churn prediction inputs, and executive-level reporting via Power BI.
+
+**Stack:** `ADF` `SQL` `Power BI` `Python` `Azure Synapse`
+
+[![View Project](https://img.shields.io/badge/View_Project-0078D4?style=flat-square&logo=github&logoColor=white)](PASTE_PROJECT_LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `📊 GitHub Stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PASTE_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9&ring_color=0078D4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PASTE_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&langs_count=6" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PASTE_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0078D4&fire=FF6B35&currStreakLabel=0078D4&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       EDUCATION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `🎓 Education`
+
+| Degree | Institution | Status |
+|--------|-------------|--------|
+| **B.Sc. Data Science** | *(Your University Name)* | 🟢 In Progress |
+
+> Core focus areas: Statistical Modelling · Database Systems · Machine Learning · Cloud Computing · Data Engineering
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CAREER GOAL                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `🎯 Career Goal`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   Target Role  →  Data Engineer / Azure Data Platform Engineer  │
+│   Domain       →  Cloud Data Platforms · Analytics Engineering  │
+│   Horizon      →  Lakehouse Architecture · Real-Time Streaming  │
+│   Vision       →  Build data infrastructure that is reliable,   │
+│                   scalable, and directly fuels business growth   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+I am focused on advancing within **Azure-native data ecosystems** — designing robust ingestion frameworks, building medallion lakehouse architectures, and enabling analytics teams to move faster with trustworthy data. Seeking roles where engineering rigour and data quality are non-negotiable.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `🤝 Connect With Me`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0078D4?style=for-the-badge)](PASTE_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](PASTE_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-161B22?style=for-the-badge)](PASTE_GITHUB_LINK)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:PASTE_EMAIL)
+
+<br/>
+
+*Open to Data Engineering, Cloud Data Platform, and Analytics Engineering opportunities.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
