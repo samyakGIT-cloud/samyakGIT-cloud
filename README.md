@@ -63,39 +63,39 @@ Currently focused on: lakehouse architecture · real-time streaming · cloud-nat
 
 ## Projects
 
-#### Retail Sales Intelligence Platform
+#### Neural-Retail AI Powered Sales Intelligence Platform
 Multi-source retail data ingested via AWS Glue, processed in PySpark, and modeled into a star-schema Redshift warehouse. Power BI dashboards surface KPIs across sales performance, inventory, and customer behaviour in near real-time.
 
-`AWS Glue` `Amazon S3` `Amazon Redshift` `PySpark` `Power BI`
+`Python` `JupyterNotebook` `FastAPI` `Docker` `Airflow` `PostgreSQL` `ETL` `MLFlow` `AWS` `ApacheSpark` `Streamlit`
 
-&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyak-kamble)
+&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyakGIT-cloud/Neural-Retail-AI-Powered-Sales-Intelligence-System.git)
 
 ---
 
 #### Financial Fraud Detection & Risk Monitoring System
 Streaming transaction pipeline on Amazon Kinesis with ML-based anomaly detection to flag suspicious activity in real time. Automated alerting via AWS Lambda, immutable audit logs in S3, and a compliance-ready Power BI risk dashboard.
 
-`Amazon Kinesis` `AWS Lambda` `PySpark` `SQL` `Python` `Power BI`
+`Sickitlearn` `Pandas&Numpy` `XG Boost` `PySpark` `SQL` `Python` `Power BI`
 
-&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyak-kamble)
+&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyakGIT-cloud/Financial-Fraud-Detection-and-Risk-Monitoring-System.git)
 
 ---
 
 #### AI Healthcare Recommendation Engine
 Medallion lakehouse on S3 + AWS Glue unifying patient records, diagnostics, and treatment history. Powers an ML-based disease prediction model and personalised care recommendation engine with governance and data quality controls built in.
 
-`Python` `Amazon S3` `AWS Glue` `Apache Spark` `SQL`
+`Python` `JAVASCRIPT` `FLASK` `Pandas` `Numpy` `CSS` `HTML` `SQL`
 
-&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyak-kamble)
+&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyakGIT-cloud/Personalized-HealthCare-Recommendation-System-.git)
 
 ---
 
 #### Customer Behaviour Analytics Dashboard
 360° customer analytics platform consolidating CRM, transactional, and behavioural signals into a unified Redshift semantic model. Delivers cohort analysis, churn indicators, and executive-level reporting via Power BI.
 
-`SQL` `Amazon Redshift` `AWS Glue` `Power BI` `Python`
+`SQL`  `Power BI` `Python`
 
-&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyak-kamble)
+&nbsp;&nbsp;&nbsp;&nbsp;[→ View Repository](https://github.com/samyakGIT-cloud/customer_behaviour_analysis.git)
 
 ---
 
