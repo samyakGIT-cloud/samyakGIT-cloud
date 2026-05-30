@@ -2,9 +2,9 @@
 
 # Samyak Kamble
 
-**AWS Data Engineer Intern @ Amdox &nbsp;·&nbsp; B.Sc. Data Science**
+**Azure Data Engineer Intern @ Amdox &nbsp;·&nbsp; B.Sc. Data Science**
 
-Designing scalable ETL pipelines, cloud-native data platforms, and analytics systems on AWS.
+Designing scalable ETL pipelines, cloud-native data platforms, and analytics systems on Azure.
 Focused on turning raw, fragmented data into reliable, business-ready intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak-kamble)
@@ -56,28 +56,28 @@ Focused on turning raw, fragmented data into reliable, business-ready intelligen
 ### Retail Sales Intelligence Platform
 End-to-end Azure pipeline ingesting multi-source retail data, processed via Databricks and PySpark, modeled into a star-schema warehouse and surfaced through Power BI dashboards tracking sales KPIs, inventory, and customer behaviour.
 
-`Data Warehousing` `Databricks` `PySpark` `Delta Lake` `Power BI`
+`Azure Data Factory` `Databricks` `PySpark` `Delta Lake` `Power BI`
 
 ---
 
 ### Financial Fraud Detection & Risk Monitoring System
 Transaction monitoring system using Spark Structured Streaming and ML models to flag anomalous activity in real time. Features automated alerting, audit logging, and a compliance-facing Power BI risk dashboard.
 
-`PySpark` `Databricks` `SQL` `Python` `Power BI`
+`PySpark` `Azure Databricks` `SQL` `Python` `Power BI`
 
 ---
 
 ### AI Healthcare Recommendation Engine
 Lakehouse platform unifying patient records, diagnostics, and treatment history to drive an ML-based disease prediction and personalised recommendation engine. Built on a medallion architecture for data governance and quality.
 
-`Python` `AWS` `Databricks` `Delta Lake` `SQL`
+`Python` `Azure Data Lake` `Databricks` `Delta Lake` `SQL`
 
 ---
 
 ### Customer Behaviour Analytics Dashboard
 360° customer analytics solution consolidating CRM, transactional, and behavioural data into a unified semantic model. Delivers cohort analysis, churn signals, and executive reporting via Power BI.
 
-`SQL` `AWS Glue` `Power BI` `Python` `ADF`
+`SQL` `Azure Synapse` `Power BI` `Python` `ADF`
 
 ---
 
@@ -105,10 +105,8 @@ Coursework in Statistical Modelling, Database Systems, Machine Learning, Cloud C
 
 ## Certifications
 
-- HackerRank - ADVANCED SQL
-- HackerRank - BASIC PYTHON
-- AI Certfied 
-- Deliotte - DATA ANALYTICS INTERN CERTIFIED
+- Microsoft Certified: Azure Fundamentals *(AZ-900)* — *In Progress*
+- *(Additional certifications to be added)*
 
 ---
 
