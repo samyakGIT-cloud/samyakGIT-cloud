@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak-kamble)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://samyakkamble.dev)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/samyak-kamble)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samyak@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-kamble-972b10315/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://samyakgit-cloud.github.io/samyak-portfolio/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/samyakGIT-cloud)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samyakkamble3016@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samyak-kamble&style=flat-square&color=FF9900&label=Profile+Views)
 
