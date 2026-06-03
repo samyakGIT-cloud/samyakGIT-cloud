@@ -118,13 +118,13 @@ Medallion lakehouse on S3 + AWS Glue unifying patient records, diagnostics, and 
 Coursework: Statistical Modelling · Database Systems · Machine Learning · Cloud Computing · Data Engineering
 
 **Certifications**
-- AWS Certified Cloud Practitioner *(CLF-C02)* — In Progress
+- AWS Certified Solution Architect Associate *(SAA-C03)* — In Progress
 
 ---
 
 ## What I'm Building Toward
 
-Roles in **Data Engineering, AWS Data Platform, or Analytics Engineering** — where I can own pipeline infrastructure end-to-end, build lakehouse architectures that scale, and help data teams move faster with data they can actually trust.
+Roles in **Data Engineering, Cloud Engineer, or Analytics Engineering** — where I can own pipeline infrastructure end-to-end, build lakehouse architectures that scale, and help data teams move faster with data they can actually trust.
 
 ---
 
